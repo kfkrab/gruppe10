@@ -3,9 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Group 10's Hundeskove i Odense liste</title>
-=======
-<title>Group 10's Hundeskove i Odense liste simon var her</title>
->>>>>>> 732c73455bb5629a45f866bb8b8797011b6b9d55
+
 
 <!--CSS-->
 <link rel="stylesheet" type="text/css" href="css/style.css" />
