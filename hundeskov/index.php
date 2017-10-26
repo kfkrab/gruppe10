@@ -1,6 +1,6 @@
 <html>
    <head>
-      <title>Angular JS Includes</title>
+      <title>Hundeskov i Odense gruppe 10</title>
 
           <script data-require="angular.js@1.2.x" src="http://code.angularjs.org/1.2.15/angular.js" data-semver="1.2.15"></script>
 		<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
