@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Gruppe 10's test dokuments vic var her</title>
+<title>Group 10's absence list</title>
 </head>
 
 <body>
