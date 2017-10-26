@@ -10,8 +10,7 @@
     "images": [
       "images/3/sledge3.jpg",
       "images/3/sledge3.1.jpg",
-      "images/3/sledge3.2.jpg",
-        "images/3/sledge3.3.jpg"
+      "images/3/sledge3.2.jpg"
     ],
     "reviews": []
   },
@@ -26,8 +25,7 @@
     "images": [
       "images/2/sledge2.jpg",
       "images/2/sledge2.1.jpg",
-      "images/2/sledge2.2.jpg",
-        "images/2/sledge2.3.jpg"
+      "images/2/sledge2.2.jpg"
     ],
     "reviews": []
   },
@@ -42,8 +40,7 @@
     "images": [
       "Images/1/slegde1.jpg",
       "images/1/sledge1.1.jpg",
-      "images/1/sledge1.2.jpg",
-        "images/1/sledge1.3.jpg"
+      "images/1/sledge1.2.jpg"
     ],
     "reviews": []
   },
@@ -58,8 +55,7 @@
     "images": [
       "images/5/sledge5.jpg",
       "images/5/sledge5.1.jpg",
-      "images/5/sledge5.2.jpg",
-        "images/5/sledge5.3.jpg"
+      "images/5/sledge5.2.jpg"
     ],
     "reviews": []
   },
@@ -74,8 +70,8 @@
     "images": [
       "images/4/sledge4.jpg",
       "images/4/sledge4.1.jpg",
-      "images/4/sledge4.2.jpg",
-        "images/4/sledge4.3.jpg"
+      "images/4/sledge4.2.jpg"
+      
     ],
     "reviews": []
   },
@@ -90,8 +86,7 @@
     "images": [
       "images/6/sledge6.jpg",
       "images/6/sledge6.1.jpg",
-      "images/6/sledge6.2.jpg",
-        "images/6/sledge6.3.jpg"
+      "images/6/sledge6.2.jpg"
     ],
     "reviews": []
   }
