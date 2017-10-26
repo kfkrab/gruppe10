@@ -8,9 +8,9 @@
     "color": "#CCC",
     "faces": 14,
     "images": [
-      "images/gem-02.gif",
-      "images/gem-05.gif",
-      "images/gem-09.gif"
+      "images/3/sledge3.jpg",
+      "images/3/sledge3.1.jpg",
+      "images/3/sledge3.2.jpg"
     ],
     "reviews": []
   },
@@ -25,13 +25,12 @@
     "images": [
       "images/2/sledge2.jpg",
       "images/2/sledge2.1.jpg",
-      "images/2/sledge2.2.jpg",
-        "images/2/sledge2.3.jpg"
+      "images/2/sledge2.2.jpg"
     ],
     "reviews": []
   },
   {
-    "name": "Træ kælk",
+    "name": "Træ Kælk",
     "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
     "shine": 70,
     "price": 1100,
@@ -41,8 +40,7 @@
     "images": [
       "Images/1/slegde1.jpg",
       "images/1/sledge1.1.jpg",
-      "images/1/sledge1.2.jpg",
-        "images/1/sledge1.3.jpg"
+      "images/1/sledge1.2.jpg"
     ],
     "reviews": []
   },
@@ -55,9 +53,40 @@
     "color": "#000",
     "faces": 6,
     "images": [
-      "images/gem-06.gif",
-      "images/gem-07.gif",
-      "images/gem-08.gif"
+      "images/5/sledge5.jpg",
+      "images/5/sledge5.1.jpg",
+      "images/5/sledge5.2.jpg"
+    ],
+    "reviews": []
+  },
+    {
+    "name": "Barnekælk",
+    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "shine": 70,
+    "price": 1100,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "images/4/sledge4.jpg",
+      "images/4/sledge4.1.jpg",
+      "images/4/sledge4.2.jpg"
+      
+    ],
+    "reviews": []
+  },
+    {
+    "name": "Max Snow Machine",
+    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "shine": 70,
+    "price": 1100,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "images/6/sledge6.jpg",
+      "images/6/sledge6.1.jpg",
+      "images/6/sledge6.2.jpg"
     ],
     "reviews": []
   }
