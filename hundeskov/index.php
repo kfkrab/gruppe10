@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Group 10's absence list</title>
+<title>Group 10's Hundeskove i Odense liste</title>
 </head>
 
 <body>
