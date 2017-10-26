@@ -4,6 +4,9 @@
   <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.28/angular.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" media="all" href="css/application.css">
+    
     <script type="text/javascript" src="js/app.js"></script>
     <script type="text/javascript" src="js/products.js"></script>
   </head>
@@ -15,13 +18,14 @@
     </header>
 
     <!--  Products Container  -->
-    <div class="list-group">
+    
+     <div class="list-group col-md-4">
       <!--  Product Container  -->
       <div class="list-group-item" ng-repeat="product in store.products">
         <h3>{{product.name}} <em class="pull-right">{{product.price | currency}}</em></h3>
 
         <!-- Image Gallery  -->
-        <product-gallery></product-gallery>
+        <product-gallery>Hello</product-gallery>
 
         <!-- Product Tabs  -->
         <product-tabs></product-tabs>

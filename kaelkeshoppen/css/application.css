@@ -4,3 +4,7 @@
 .ng-valid.ng-dirty {
   border-color: green;
 }
+
+body{
+	background-color: red;
+}
