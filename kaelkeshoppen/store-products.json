@@ -32,7 +32,7 @@
     "reviews": []
   },
   {
-    "name": "Træ kælk",
+    "name": "Træ Kælk",
     "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
     "shine": 70,
     "price": 1100,
@@ -65,6 +65,22 @@
   },
     {
     "name": "Barnekælk",
+    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "shine": 70,
+    "price": 1100,
+    "rarity": 2,
+    "color": "#000",
+    "faces": 6,
+    "images": [
+      "images/4/sledge4.jpg",
+      "images/4/sledge4.1.jpg",
+      "images/4/sledge4.2.jpg",
+        "images/4/sledge4.3.jpg"
+    ],
+    "reviews": []
+  },
+    {
+    "name": "Max Snow Machine",
     "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
     "shine": 70,
     "price": 1100,
