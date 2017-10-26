@@ -1,5 +1,6 @@
 <?php
 
+<<<<<<< HEAD
 	define("JSONHUNDESKOV", "json/hundeskove.json");
 
 	function getJsonData(){
@@ -9,6 +10,8 @@
 		$json = json_decode($content);
 		return $json->pages;
     }
+=======
+>>>>>>> c03821678e240b4354ebc019297955f886a00cbf
 ?>
 
 

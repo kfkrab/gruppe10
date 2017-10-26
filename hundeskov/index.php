@@ -13,7 +13,7 @@
 
 
 <!--function-->	
-<script src="js/functions.js"></script>
+<script src="js/functions.php"></script>
 
 </head>
 
