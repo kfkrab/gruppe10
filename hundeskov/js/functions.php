@@ -1,6 +1,14 @@
 <?php
 
+	define("JSONHUNDESKOV", "json/hundeskove.json");
 
+	function getJsonData(){
+		//læs json filen
+		$content = file_get_contents(JSONFILE);
+		//afkode json
+		$json = json_decode($content);
+		return $json->pages;
+    }
 ?>
 
 
