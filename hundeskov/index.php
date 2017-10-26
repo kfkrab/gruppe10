@@ -2,23 +2,8 @@
    <head>
       <title>Angular JS Includes</title>
 
-      <style>
-         table, th , td {
-            border: 1px solid grey;
-            border-collapse: collapse;
-            padding: 5px;
-         }
-
-         table tr:nth-child(odd) {
-            background-color: #f2f2f2;
-         }
-
-         table tr:nth-child(even) {
-            background-color: #ffffff;
-         }
-      </style>
           <script data-require="angular.js@1.2.x" src="http://code.angularjs.org/1.2.15/angular.js" data-semver="1.2.15"></script>
-
+		<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
    </head>
    <body>
       <h2>AngularJS that reads open data sets </h2>
