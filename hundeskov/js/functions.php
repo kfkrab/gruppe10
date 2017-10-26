@@ -1,3 +1,13 @@
+<?php
+
+
+?>
+
+
+
+
+
+<script>
 (function(){
 	
 var app = angular.module('absenceList',[]);	
@@ -14,5 +24,5 @@ var students = [
 				  
 	console.log(students);
 })();
-
+</script>
 
