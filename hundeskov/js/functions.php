@@ -21,7 +21,7 @@ var app = angular.module('absenceList',[]);
 	});
 		
 var students = [
-	{id: 'Kristian', navn: '$skov->navn', placering: '$skov->placering'},
+	{navn: '$skov->placering', beskrivelse: '$skov->beskrivelse'},
 	
 ];
 				  
