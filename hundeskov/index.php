@@ -22,7 +22,7 @@
 
 <p ng-repeat="students in studentList  ">{{hundeskov.navn}}
 <span ng-show="students.absence" style="color: red; font-size: 0.5em ">{{hundeskov.navn}}</span>
-<span ng-hide="students.absence" style="color: green; font-size: 0.5em ">Tilstede</span>
+<span ng-hide="students.absence" style="color: green; font-size: 0.5em ">{{hundeskov.beskrivelse}}</span>
 </p>
 
 
