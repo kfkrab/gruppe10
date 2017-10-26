@@ -8,9 +8,10 @@
     "color": "#CCC",
     "faces": 14,
     "images": [
-      "images/gem-02.gif",
-      "images/gem-05.gif",
-      "images/gem-09.gif"
+      "images/3/sledge3.jpg",
+      "images/3/sledge3.1.jpg",
+      "images/3/sledge3.2.jpg",
+        "images/3/sledge3.3.jpg"
     ],
     "reviews": []
   },
@@ -55,9 +56,10 @@
     "color": "#000",
     "faces": 6,
     "images": [
-      "images/gem-06.gif",
-      "images/gem-07.gif",
-      "images/gem-08.gif"
+      "images/5/sledge5.jpg",
+      "images/5/sledge5.1.jpg",
+      "images/5/sledge5.2.jpg",
+        "images/5/sledge5.3.jpg"
     ],
     "reviews": []
   }
