@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<<<<<<< HEAD
 <title>Group 10's Hundeskove i Odense liste</title>
 =======
 <title>Group 10's Hundeskove i Odense liste simon var her</title>
