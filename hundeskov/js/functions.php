@@ -11,10 +11,6 @@
     }
 ?>
 
-
-
-
-
 <script>
 (function(){
 	

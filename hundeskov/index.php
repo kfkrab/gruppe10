@@ -18,9 +18,6 @@
 
 </head>
 
-
-
-
 <body ng-controller="StudentController as list">
 
 <p ng-repeat="students in studentList  ">{{students.name}}
