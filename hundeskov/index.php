@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Group 10's Hundeskove i Odense liste vic var her</title>
+<title>Group 10's Hundeskove i Odense liste</title>
 
 <!--CSS-->
 <link rel="stylesheet" type="text/css" href="css/style.css" />
