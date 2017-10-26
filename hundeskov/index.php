@@ -6,14 +6,13 @@
 		<link href="css/style.css" rel="stylesheet" type="text/css" media="all">
    </head>
    <body>
-      <h2>AngularJS that reads open data sets </h2>
-      <a href="https://portal.opendata.dk/dataset/62fe5392-9bb6-49c5-ba41-3a1b0297a3c2/resource/37816225-3471-4fd5-a855-66b9780baf8d/download/hundeskoveoghundeparker.json">Data source</a>
+      <h2>Gruppe 10's liste over hundeskove i Odense</h2>
       <div ng-app = "getData" ng-controller = "dataController">
 
          <table>
             <tr>
-               <th>Id</th>
-               <th>Placering</th>
+               <th>Nr.</th>
+               <th>Navn</th>
                <th>Koordinat</th>
             </tr>
 
