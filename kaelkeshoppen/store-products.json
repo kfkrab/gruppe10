@@ -38,9 +38,10 @@
     "color": "#000",
     "faces": 6,
     "images": [
-      "Images/sledge1",
-      "images/gem-07.gif",
-      "images/gem-08.gif"
+      "Images/1/sledge1",
+      "images/1/sledge1.1",
+      "images/1/sledge1.2",
+        "images/1/sledge1.3"
     ],
     "reviews": []
   },
