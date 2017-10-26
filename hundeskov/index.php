@@ -20,8 +20,8 @@
 
 <body ng-controller="StudentController as list">
 
-<p ng-repeat="students in studentList  ">{{students.name}}
-<span ng-show="students.absence" style="color: red; font-size: 0.5em ">Fraværende</span>
+<p ng-repeat="students in studentList  ">{{hundeskov.id}}
+<span ng-show="students.absence" style="color: red; font-size: 0.5em ">{{hundeskov.navn}}</span>
 <span ng-hide="students.absence" style="color: green; font-size: 0.5em ">Tilstede</span>
 </p>
 

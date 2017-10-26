@@ -4,10 +4,10 @@
 
 	function getJsonData(){
 		//læs json filen
-		$content = file_get_contents(JSONFILE);
+		$content = file_get_contents(JSONHUNDESKOV);
 		//afkode json
 		$json = json_decode($content);
-		return $json->pages;
+		return $json->skov;
     }
 ?>
 
@@ -21,9 +21,8 @@ var app = angular.module('absenceList',[]);
 	});
 		
 var students = [
-	{name: 'Kristian', absence: false},
-	{name: 'Simon' , absence: true},
-	{name: 'Jesse' , absence: false},
+	{id: 'Kristian', navn: '$skov->navn', placering: '$skov->placering'},
+	
 ];
 				  
 	console.log(students);
