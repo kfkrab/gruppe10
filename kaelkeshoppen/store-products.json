@@ -1,6 +1,6 @@
 [
   {
-    "name": "Bobslæde",
+    "name": "Hole Skov",
     "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
     "shine": 8,
     "rarity": 7,
@@ -12,7 +12,7 @@
     "reviews": []
   },
   {
-    "name": "Arctic Racer",
+    "name": "Skovløkken",
     "description": "Origin of the Bloodstone is unknown, hence its low value. It has a very high shine and 12 sides, however.",
     "shine": 9,
     "rarity": 6,
@@ -24,7 +24,7 @@
     "reviews": []
   },
   {
-    "name": "Træ Kælk",
+    "name": "Boldbro",
     "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
     "shine": 70,
     "rarity": 2,
@@ -36,7 +36,7 @@
     "reviews": []
   },
     {
-    "name": "Snow Power",
+    "name": "H.C. Andersenhaven",
     "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
     "shine": 70,
     "rarity": 2,
@@ -48,7 +48,7 @@
     "reviews": []
   },
     {
-    "name": "Barnekælk",
+    "name": "Stige Ø",
     "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
     "shine": 70,
     "rarity": 2,
@@ -61,7 +61,7 @@
     "reviews": []
   },
     {
-    "name": "Max Snow Machine",
+    "name": "Munkedammen",
     "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
     "shine": 70,
     "rarity": 2,
