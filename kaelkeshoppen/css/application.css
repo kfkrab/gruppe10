@@ -4,6 +4,23 @@ body {
     margin-right: auto; 
     margin-top: 70px;
 }
+
+header{
+	width: 100%;
+}
+
+nav{
+	background-color: #494949;
+	color: #ccc;
+	
+	width: 100%;
+}
+
+.menuLink{
+	width: 10%;
+	justify-content: space-between;
+}
+
 main{
 	width: 95%; 
     margin-left: auto;
