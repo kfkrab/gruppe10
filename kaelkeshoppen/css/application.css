@@ -41,10 +41,10 @@ h2 {
 	
 }
 
-footer table{
-	justify-content: center;
+footer h3{
+	
+	color: white !important;
 }
-
 .aabningsTiderFooter{
 	justify-content: space-between;
 }
