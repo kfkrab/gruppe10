@@ -22,6 +22,12 @@ h2 {
     text-decoration: none;
 }
 
+.billed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .ng-invalid.ng-dirty {
   border-color: red;
 }
