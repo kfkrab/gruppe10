@@ -35,6 +35,18 @@ h2 {
   border-color: green;
 }
 
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
 .footer-clean{
 	background-color: #494949;
 	color: #CCCCCC;
