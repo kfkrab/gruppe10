@@ -1,7 +1,7 @@
 [
   {
     "name": "Hole Skov",
-    "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+    "description": "Bred kælkebakke, hvor der både er mulighed for at få fart på, og mulighed for at kælke på fladere bakker. Beliggende ved Hole Skov ved Korup. Adgang fra Søbakkevej. For enden af Søbakkevej går man af sti til venstre ind i skoven.",
     "shine": 8,
     "rarity": 7,
     "color": "#CCC",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Skovløkken",
-    "description": "Origin of the Bloodstone is unknown, hence its low value. It has a very high shine and 12 sides, however.",
+    "description": "Stejl kælkebakke, med mulighed for at få god fart på. Flot udsigt.",
     "shine": 9,
     "rarity": 6,
     "color": "#EEE",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Boldbro",
-    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "description": "En af byens bedste kælkebakker. Her er stejle og mindre stejle skråninger, nogle af dem med flyvehop i bunden. Adgang fra Spangsvej.",
     "shine": 70,
     "rarity": 2,
     "color": "#000",
@@ -37,7 +37,7 @@
   },
     {
     "name": "H.C. Andersenhaven",
-    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "description": "Bred og ikke alt for stejl kælkebakke med panoramaudsigt ud over Stavisådalen. Adgang via sti for enden af Skovly.",
     "shine": 70,
     "rarity": 2,
     "color": "#000",
@@ -49,7 +49,7 @@
   },
     {
     "name": "Stige Ø",
-    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "description": "Bred kælkebakke med panoramaudsigt.",
     "shine": 70,
     "rarity": 2,
     "color": "#000",
@@ -62,7 +62,7 @@
   },
     {
     "name": "Munkedammen",
-    "description": "Zircon is our most coveted and sought after gem. You will pay much to be the proud owner of this gorgeous and high shine gem.",
+    "description": "2 kælkebakker i den unge skov i Stavisådalen. Adgang via sti mellem Ternevej og Hjejlebakken.",
     "shine": 70,
     "rarity": 2,
     "color": "#000",
