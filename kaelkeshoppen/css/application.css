@@ -78,3 +78,14 @@ footer h3{
 	text-align: center;
 	
 }
+
+
+.imgContainer {
+  overflow: hidden;
+  width: 200px;
+  height: 100px;
+}
+.imgContainer img {
+  width: 200px;
+  height: 120px;
+}

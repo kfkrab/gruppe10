@@ -1,5 +1,9 @@
 <div ng-show="product.images.length">
   <div class="img-wrap">
-    <img style="margin-bottom: 15px!important;" class="col-md-12" ng-src="{{product.images[gallery.current]}}" />
+    <div class="col-md-12">
+		<div class="imgContainer">
+		<img style="margin-bottom: 15px!important" class="col-md-12 produktImg" ng-src="{{product.images[gallery.current]}}" />
+		</div>
+    </div>
   </div>
 </div>
