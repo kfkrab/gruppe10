@@ -75,11 +75,10 @@ footer h3{
 
 
 .imgContainer {
-  overflow: hidden;
-  width: 200px;
-  height: 100px;
+
+	margin-bottom: 15px;
+	text-align: center;
 }
 .imgContainer img {
-  width: 200px;
-  height: 120px;
+height: 200px;
 }
