@@ -14,7 +14,20 @@
   </head>
   <body ng-controller="StoreController as store">
     <!--  Store Header  -->
-    <header><br>
+    <header>
+    <div class="headerTop">
+    
+    	<div class="row">
+    		<div class="col-md-3"></div>
+    		<div class="col-md-3"></div>
+    		<div class="col-md-3"></div>
+    		<div class="col-md-3">Tip os på: info@kaelkebakker.dk</div>
+    	</div>	
+    	
+    </div>
+    
+    
+    
 		<div style="margin-right: auto; margin-left: auto; width: 20%;"><img src="images/LOGO3.png" width="100%"></div>
       <h1 class="text-center">KÆLKEBAKKER</h1>
       <br>
@@ -27,7 +40,7 @@
     
      <div class="list-group row">
       <!--  Product Container  -->
-      <div style="height: 900px;" class="list-group-item col-md-4" ng-repeat="product in store.products">
+      <div style="height: 500px;" class="list-group-item col-md-4" ng-repeat="product in store.products">
         <h3>{{product.name}} <em class="pull-right">{{product.price | currency}}</em></h3>
 
         <!-- Image Gallery  -->
