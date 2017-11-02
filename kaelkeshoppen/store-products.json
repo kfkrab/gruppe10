@@ -24,14 +24,14 @@
     "reviews": []
   },
   {
-    "name": "Boldbro",
+    "name": "Bolbro",
     "description": "En af byens bedste kælkebakker. Her er stejle og mindre stejle skråninger, nogle af dem med flyvehop i bunden. Adgang fra Spangsvej.",
     "farve": "Grøn",
     "grundejer": "Privat Grund",
     "bakkeBrede": "100m",
     "laengde": "40m",
     "images": [
-      "Images/bakke3.png"
+      "images/bakke3.png"
     ],
     "reviews": []
   },
